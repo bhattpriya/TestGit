@@ -1,0 +1,8 @@
+git add .
+git log
+git log --stat
+git reset filename
+git log -p
+git diff
+git diff --stage
+git remote -v
